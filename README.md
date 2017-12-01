@@ -8,5 +8,5 @@ Open a Powershell window
 
 ```
 Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope Process
-./create.ps1
+.\create.ps1
 ```
